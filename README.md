@@ -33,3 +33,5 @@ Licencia Apache
 ## Licencia
 
 Versión 2.0, Enero de 2004
+## Diagrama UML
+<a href="uml.png">uml</a>
