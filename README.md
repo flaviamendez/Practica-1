@@ -27,7 +27,7 @@ Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repos
 
 ## Autor
 
-Este proyecto fue creado por [Flavia Mendez y Carlota Ruiz]<a href="https://example.com">LICENSE</a>().
+Este proyecto fue creado por [Flavia Mendez y Carlota Ruiz]<a href="LICENSE">LICENSE</a>().
 Licencia Apache
 
 ## Licensia
