@@ -1,7 +1,15 @@
 package aplicacion;
 import mates.Matematicas;
-public class Principal{public static void main(String[] args){
-    System.out.println("El número PI es " +Matematicas.generarNumeroPiIterativo(1000000));
+import java.util.Scanner; 
 
+public class Principal {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Introduce el número de dardos: ");
+        int dardos = scanner.nextInt(); 
+        double pi = Matematicas.generarNumeroPiIterativo(dardos);
+        System.out.println("El número PI es aproximadamente: " + pi);
+        scanner.close();
     }
 }
